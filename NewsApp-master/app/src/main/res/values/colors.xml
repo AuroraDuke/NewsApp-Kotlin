@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="firstB">#6B9FBF</color>
+    <color name="SecondB">#9CC1D9</color>
+    <color name="firstSand">#401E01</color>
+    <color name="secondSand">#BF8F65</color>
+    <color name="thirdSand">#F2C094</color>
+
+
+</resources>

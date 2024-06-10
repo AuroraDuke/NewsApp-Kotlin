@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.News" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/firstB</item>
+        <item name="colorSecondary">@color/SecondB</item>
+        <item name="android:statusBarColor">@color/firstB</item>
+    </style>
+
+    <style name="Theme.News" parent="Base.Theme.News" />
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/thirdSand</item>
+    </style>
+</resources>
